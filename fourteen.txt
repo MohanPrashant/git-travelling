@@ -3,9 +3,3 @@ made some changes in main branch
 hello world 
 made changes in remote repository
 again made changes in remote repository for pull command
-1
-2
-3
-4
-5
-making changes to known revert command working or ont
